@@ -60,7 +60,7 @@ API|使用场景|需求列表|核心功能|重要性
 ![获得taskid](https://github.com/NFUNM024/api-/blob/master/3%E8%8E%B7%E5%BE%97taskid.png "")
 ![使用taskid调出结果](https://github.com/NFUNM024/api-/blob/master/4%E4%BD%BF%E7%94%A8taskid%E8%B0%83%E5%87%BA%E7%BB%93%E6%9E%9C.png "")
 ![最终结果](https://github.com/NFUNM024/api-/blob/master/5%E6%9C%80%E7%BB%88%E7%BB%93%E6%9E%9C.png "")
-![获取assess_token](https://github.com/NFUNM024/api-/blob/master/7%E8%8E%B7%E5%8F%96assess_token.png"")
+![获取assess_token](https://github.com/NFUNM024/api-/blob/master/7%E8%8E%B7%E5%8F%96assess_token.png "")
 ![百度文本纠错功能调用](https://github.com/NFUNM024/api-/blob/master/8%E7%99%BE%E5%BA%A6%E6%96%87%E6%9C%AC%E7%BA%A0%E9%94%99%E5%8A%9F%E8%83%BD%E8%B0%83%E7%94%A8.png "")
 ### 使用比较分析 
 ### 使用后风险报告
