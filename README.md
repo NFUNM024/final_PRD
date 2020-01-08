@@ -85,7 +85,9 @@ API|使用场景|需求列表|核心功能|重要性
 ![使用taskid调出结果](https://github.com/NFUNM024/api-/blob/master/4%E4%BD%BF%E7%94%A8taskid%E8%B0%83%E5%87%BA%E7%BB%93%E6%9E%9C.png "")
 + 输出转换结果
 ![最终结果](https://github.com/NFUNM024/api-/blob/master/5%E6%9C%80%E7%BB%88%E7%BB%93%E6%9E%9C.png "")
+
 2.百度文本纠错API
+
 + 使用代码获取assess_token
 ![获取assess_token](https://github.com/NFUNM024/api-/blob/master/7%E8%8E%B7%E5%8F%96assess_token.png "")
 + 通过assess_token调用百度文本纠错API并输出结果
