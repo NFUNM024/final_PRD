@@ -91,7 +91,7 @@ API|使用场景|需求列表|核心功能|重要性
 + 使用代码获取assess_token
 ![获取assess_token](https://github.com/NFUNM024/api-/blob/master/7%E8%8E%B7%E5%8F%96assess_token.png "")
 + 通过assess_token调用百度文本纠错API并输出结果
-![百度文本纠错功能调用] (https://github.com/NFUNM024/api-/blob/master/8%E7%99%BE%E5%BA%A6%E6%96%87%E6%9C%AC%E7%BA%A0%E9%94%99%E5%8A%9F%E8%83%BD%E8%B0%83%E7%94%A8.png "")
+![百度文本纠错功能调用](https://github.com/NFUNM024/api-/blob/master/8%E7%99%BE%E5%BA%A6%E6%96%87%E6%9C%AC%E7%BA%A0%E9%94%99%E5%8A%9F%E8%83%BD%E8%B0%83%E7%94%A8.png "")
 ### 使用比较分析 
 + 录音识别api
 #### 价格
