@@ -65,7 +65,8 @@ API|使用场景|需求列表|核心功能|重要性
 ![6](https://github.com/NFUNM024/api-/blob/master/6.png)
 ![7](https://github.com/NFUNM024/api-/blob/master/7.png)
 ### 原型文档 
-[原型文档](http://nfunm024_admin.gitee.io/prototype/#g=1&p=%E5%B0%81%E9%9D%A2)
+[云秘原型文档](http://nfunm024_admin.gitee.io/prototype/#g=1&p=%E5%B0%81%E9%9D%A2)
+[云秘原型文档下载](https://gitee.com/NFUNM024_admin/prototype)
 ### 口头操作说明
 本产品使用了两个API分别是腾讯云录音识别API和百度文本纠错API。主要的功能为通过用户使用APP进行录音生成录音文件或是选择使用本地录音对录音进行录音识别，通过录音识别API将录音转换为文本输出到APP的文本框内再保存到用户的收集储存内或是APP的云端内。辅助功能为选择云端内的文本文件或是本地的文本文件，通过文本纠错API对转换的文本内的病句、口误、停顿进行修改输出一份错误较少的文本文件再保存到用户的收集储存内或是APP的云端内供用户使用。
 
@@ -83,9 +84,34 @@ API|使用场景|需求列表|核心功能|重要性
 + 输出转换结果
 ![最终结果](https://github.com/NFUNM024/api-/blob/master/5%E6%9C%80%E7%BB%88%E7%BB%93%E6%9E%9C.png "")
 2.百度文本纠错API
-+ 
++ 使用代码获取assess_token
 ![获取assess_token](https://github.com/NFUNM024/api-/blob/master/7%E8%8E%B7%E5%8F%96assess_token.png "")
-![百度文本纠错功能调用](https://github.com/NFUNM024/api-/blob/master/8%E7%99%BE%E5%BA%A6%E6%96%87%E6%9C%AC%E7%BA%A0%E9%94%99%E5%8A%9F%E8%83%BD%E8%B0%83%E7%94%A8.png "")
++ 通过assess_token调用百度文本纠错API并输出结果
+![百度文本纠错功能调用] (https://github.com/NFUNM024/api-/blob/master/8%E7%99%BE%E5%BA%A6%E6%96%87%E6%9C%AC%E7%BA%A0%E9%94%99%E5%8A%9F%E8%83%BD%E8%B0%83%E7%94%A8.png "")
 ### 使用比较分析 
++ 录音识别api
+#### 价格
++ 百度短语音识别
+![百度](https://github.com/NFUNM024/api-/blob/master/%E7%99%BE%E5%BA%A6%E7%9F%AD%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB.png "")
++ 腾讯录音识别
+预付费
+![预付费](https://github.com/NFUNM024/api-/blob/master/%E8%85%BE%E8%AE%AF%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB.png "")
+后付费
+![后付费](https://github.com/NFUNM024/api-/blob/master/%E8%85%BE%E8%AE%AF%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB1.png "")
++ 阿里录音识别
+预付费
+![预付费](https://github.com/NFUNM024/api-/blob/master/%E9%98%BF%E9%87%8C%E9%A2%84%E4%BB%98%E8%B4%B9%E6%96%B9%E5%BC%8F.png "")
+后付费
+![后付费](https://github.com/NFUNM024/api-/blob/master/%E9%98%BF%E9%87%8C%E5%90%8E%E4%BB%98%E8%B4%B9.jpg "")
+
+#### 输出结果
++ 腾讯录音识别
+![腾讯输出](https://github.com/NFUNM024/api-/blob/master/%E8%85%BE%E8%AE%AF%E4%BB%A3%E7%A0%81%E8%BE%93%E5%87%BA.png "")
++ 阿里录音识别
+![腾讯输出](https://github.com/NFUNM024/api-/blob/master/%E8%85%BE%E8%AE%AF%E4%BB%A3%E7%A0%81%E8%BE%93%E5%87%BA.png "")
+
+#### 对比
++ 
+
 ### 使用后风险报告
 ### 加分项
