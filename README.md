@@ -78,6 +78,8 @@ API|使用场景|需求列表|核心功能|重要性
 + 使用token获取taskid
 ![腾讯录音识别调用](https://github.com/NFUNM024/api-/blob/master/2%E8%85%BE%E8%AE%AF%E5%BD%95%E9%9F%B3%E8%AF%86%E5%88%AB%E8%B0%83%E7%94%A8.png "")
 + 输出taskid
+
+
 ![获得taskid](https://github.com/NFUNM024/api-/blob/master/3%E8%8E%B7%E5%BE%97taskid.png "")
 + 通过taskid调用腾讯录音识别API
 ![使用taskid调出结果](https://github.com/NFUNM024/api-/blob/master/4%E4%BD%BF%E7%94%A8taskid%E8%B0%83%E5%87%BA%E7%BB%93%E6%9E%9C.png "")
@@ -94,20 +96,31 @@ API|使用场景|需求列表|核心功能|重要性
 + 百度短语音识别
 ![百度](https://github.com/NFUNM024/api-/blob/master/%E7%99%BE%E5%BA%A6%E7%9F%AD%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB.png "")
 + 腾讯录音识别
+
 预付费
+
 ![预付费](https://github.com/NFUNM024/api-/blob/master/%E8%85%BE%E8%AE%AF%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB.png "")
+
 后付费
+
 ![后付费](https://github.com/NFUNM024/api-/blob/master/%E8%85%BE%E8%AE%AF%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB1.png "")
 + 阿里录音识别
+
 预付费
+
 ![预付费](https://github.com/NFUNM024/api-/blob/master/%E9%98%BF%E9%87%8C%E9%A2%84%E4%BB%98%E8%B4%B9%E6%96%B9%E5%BC%8F.png "")
+
 后付费
+
 ![后付费](https://github.com/NFUNM024/api-/blob/master/%E9%98%BF%E9%87%8C%E5%90%8E%E4%BB%98%E8%B4%B9.jpg "")
 
 #### 输出结果
 + 腾讯录音识别
+
 ![腾讯输出](https://github.com/NFUNM024/api-/blob/master/%E8%85%BE%E8%AE%AF%E4%BB%A3%E7%A0%81%E8%BE%93%E5%87%BA.png "")
+
 + 阿里录音识别
+
 ![腾讯输出](https://github.com/NFUNM024/api-/blob/master/%E8%85%BE%E8%AE%AF%E4%BB%A3%E7%A0%81%E8%BE%93%E5%87%BA.png "")
 
 #### 对比
