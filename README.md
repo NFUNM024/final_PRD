@@ -53,13 +53,13 @@ API|使用场景|需求列表|核心功能|重要性
 ![产品架构图](https://github.com/NFUNM024/api-/blob/master/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84.png "")
 ### 交互及界面设计
 ### 信息设计
-![](https://github.com/NFUNM024/api-/blob/master/1.png)
-![](https://github.com/NFUNM024/api-/blob/master/2.png)
-![](https://github.com/NFUNM024/api-/blob/master/3.png)
-![](https://github.com/NFUNM024/api-/blob/master/4.png)
-![](https://github.com/NFUNM024/api-/blob/master/5.png)
-![](https://github.com/NFUNM024/api-/blob/master/6.png)
-![](https://github.com/NFUNM024/api-/blob/master/7.png)
+![1](https://github.com/NFUNM024/api-/blob/master/1.png)
+![2](https://github.com/NFUNM024/api-/blob/master/2.png)
+![3](https://github.com/NFUNM024/api-/blob/master/3.png)
+![4](https://github.com/NFUNM024/api-/blob/master/4.png)
+![5](https://github.com/NFUNM024/api-/blob/master/5.png)
+![6](https://github.com/NFUNM024/api-/blob/master/6.png)
+![7](https://github.com/NFUNM024/api-/blob/master/7.png)
 ### 原型文档 
 ### 口头操作说明
 
