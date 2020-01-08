@@ -52,6 +52,10 @@ API|使用场景|需求列表|核心功能|重要性
 ### 产品架构图
 ![产品架构图](https://github.com/NFUNM024/api-/blob/master/%E6%A1%86%E6%9E%B6%E5%9B%BE.png "")
 ### 交互及界面设计
++ 腾讯云录音识别API：在转换内容的文本内容输出结果处使用
++ 百度文本纠错API：在文本纠错页面输出结果处使用
+![录音识别](https://github.com/NFUNM024/api-/blob/master/8.png "录音识别")
+![文本纠错](https://github.com/NFUNM024/api-/blob/master/9.png "录音识别")
 ### 信息设计
 ![1](https://github.com/NFUNM024/api-/blob/master/1.png)
 ![2](https://github.com/NFUNM024/api-/blob/master/2.png)
@@ -63,6 +67,7 @@ API|使用场景|需求列表|核心功能|重要性
 ### 原型文档 
 [原型文档](http://nfunm024_admin.gitee.io/prototype/#g=1&p=%E5%B0%81%E9%9D%A2)
 ### 口头操作说明
+本产品使用了两个API分别是腾讯云录音识别API和百度文本纠错API。主要的功能为通过用户使用APP进行录音生成录音文件或是选择使用本地录音对录音进行录音识别，通过录音识别API将录音转换为文本输出到APP的文本框内再保存到用户的收集储存内或是APP的云端内。辅助功能为选择云端内的文本文件或是本地的文本文件，通过文本纠错API对转换的文本内的病句、口误、停顿进行修改输出一份错误较少的文本文件再保存到用户的收集储存内或是APP的云端内供用户使用。
 
 ## API产品使用关键AI或机器学习之API的输出入展示
 ### 使用水平
