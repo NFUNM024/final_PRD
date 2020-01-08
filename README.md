@@ -61,6 +61,7 @@ API|使用场景|需求列表|核心功能|重要性
 ![6](https://github.com/NFUNM024/api-/blob/master/6.png)
 ![7](https://github.com/NFUNM024/api-/blob/master/7.png)
 ### 原型文档 
+[原型文档](http://nfunm024_admin.gitee.io/prototype/#g=1&p=%E5%B0%81%E9%9D%A2)
 ### 口头操作说明
 
 ## API产品使用关键AI或机器学习之API的输出入展示
