@@ -1,4 +1,8 @@
 # 项目名称：云秘
+[20*20 PPT录音文件](https://gitee.com/NFUNM024_admin/PPT/blob/master/%E4%BA%91%E7%A7%98APP.pptx)
+
+[20*20 PPT视频文件下载](https://pan.baidu.com/s/16eYa_i0zoArY-sFcO5jTBw)
+
 标题|内容
 ---|--:
 产品名称|云秘
