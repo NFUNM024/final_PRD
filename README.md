@@ -120,10 +120,10 @@ API|使用场景|需求列表|核心功能|重要性
 + 腾讯录音识别
 
 ![腾讯输出](https://github.com/NFUNM024/api-/blob/master/%E8%85%BE%E8%AE%AF%E4%BB%A3%E7%A0%81%E8%BE%93%E5%87%BA.png "")
-
+![腾讯输出](https://github.com/NFUNM024/api-/blob/master/%E8%85%BE%E8%AE%AFapi.png "")
 + 阿里录音识别
 
-![腾讯输出](https://github.com/NFUNM024/api-/blob/master/%E8%85%BE%E8%AE%AF%E4%BB%A3%E7%A0%81%E8%BE%93%E5%87%BA.png "")
+![腾讯输出](https://github.com/NFUNM024/api-/blob/master/%E9%98%BF%E9%87%8Capi.png "")
 
 #### 对比
 + 百度家的录音识别只支持短录音，而腾讯和阿里家的录音识别也支持长录音
